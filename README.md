@@ -21,7 +21,7 @@
   <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Bosch.jpeg" alt="Bosch" height="50"/>
   &nbsp;&nbsp;
 </p>
-Currently working as a **System Engineer** at **Bosch Global Software Technologies**, developing software tools for technical requirements analysis and automating processes using **Python** and **VBA**.
+- Currently working as a **System Engineer** at **Bosch Global Software Technologies**, developing software tools for technical requirements analysis and automating processes using **Python** and **VBA**.
   
 - 🪐 **Software Engineering Advisor** at the **Mars Rover UdeG Space Team**, leading software development in an agile environment, integrating Linux-based applications using **Python**, **C++**, and **Docker**.
   
