@@ -7,27 +7,69 @@
 
 ## 🚀 About Me
 
-<p align="left">
-  <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Bosch.jpeg" alt="Bosch" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/OAGallo/OAGallo/blob/main/UDGSPACE_LOGO.png" alt="Universidad de Guadalajara" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Continental.jpeg" alt="Continental" height="50"/>
-</p>
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Bosch.jpeg" alt="Bosch" height="50"/>
+    </td>
+    <td width="60">
+      <img src="https://github.com/OAGallo/OAGallo/blob/main/UDGSPACE_LOGO.png" alt="Universidad de Guadalajara" height="50"/>
+    </td>
+    <td width="60">
+      <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Continental.jpeg" alt="Continental" height="50"/>
+    </td>
+  </tr>
+</table>
 
 ## 🏢 Companies & Teams
 
-<p align="left">
-  <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Bosch.jpeg" alt="Bosch" height="50"/>
-  &nbsp;&nbsp;
-</p>
-- Currently working as a **System Engineer** at **Bosch Global Software Technologies**, developing software tools for technical requirements analysis and automating processes using **Python** and **VBA**.
-  
-- 🪐 **Software Engineering Advisor** at the **Mars Rover UdeG Space Team**, leading software development in an agile environment, integrating Linux-based applications using **Python**, **C++**, and **Docker**.
-  
-- 🏢 Previous **Applications Engineer Intern** at **Continental**, developing RPA solutions with **UiPath** and building internal applications with **C#** and **.NET** following the MVC pattern.
-- ☁️ Passionate about **cloud computing**, process automation, and delivering technical solutions aligned with business goals.
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Bosch.jpeg" alt="Bosch" height="50"/>
+    </td>
+    <td>
+      Currently working as a <strong>System Engineer</strong> at <strong>Bosch Global Software Technologies</strong>, developing software tools for technical requirements analysis and automating processes using <strong>Python</strong> and <strong>VBA</strong>.
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://github.com/OAGallo/OAGallo/blob/main/UDGSPACE_LOGO.png" alt="Universidad de Guadalajara" height="50"/>
+    </td>
+    <td>
+      <strong>Software Engineering Advisor</strong> at the <strong>Mars Rover UdeG Space Team</strong>, leading software development in an agile environment, integrating Linux-based applications using <strong>Python</strong>, <strong>C++</strong>, and <strong>Docker</strong>.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Continental.jpeg" alt="Continental" height="50"/>
+    </td>
+    <td>
+      Previous <strong>Applications Engineer Intern</strong> at <strong>Continental</strong>, developing RPA solutions with <strong>UiPath</strong> and building internal applications with <strong>C#</strong> and <strong>.NET</strong> following the MVC pattern.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="60">
+      ☁️
+    </td>
+    <td>
+      Passionate about <strong>cloud computing</strong>, process automation, and delivering technical solutions aligned with business goals.
+    </td>
+  </tr>
+</table>
+
+  
+
+  
 ---
 
 ## 🧰 Technologies & Tools
