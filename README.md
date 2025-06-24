@@ -10,18 +10,11 @@
 
 ## 🏢 Companies & Teams
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bosch-logo.svg/2560px-Bosch-logo.svg.png" alt="Bosch" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Escudo_UdeG.svg/2048px-Escudo_UdeG.svg.png" alt="Universidad de Guadalajara" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Continental_AG_logo.svg/2560px-Continental_AG_logo.svg.png" alt="Continental" height="50"/>
-</p>
-
-
-- 🔭 Currently working as a **System Engineer** at Bosch, developing software tools for technical requirements analysis and automating processes using **Python** and **VBA**.
-- 🪐 **Software Lead** at the **Mars Rover UdeG Space Team**, leading software development in an agile environment, integrating Linux-based applications using **Python**, **C++**, and **Docker**.
-- 🏢 Previous **Applications Engineer Intern** at Continental, developing RPA solutions with **UiPath** and building internal applications with **C#** and **.NET** following the MVC pattern.
+- 🔭 Currently working as a **System Engineer** at **Bosch Global Software Technologies**, developing software tools for technical requirements analysis and automating processes using **Python** and **VBA**.
+  
+- 🪐 **Software Engineering Advisor** at the **Mars Rover UdeG Space Team**, leading software development in an agile environment, integrating Linux-based applications using **Python**, **C++**, and **Docker**.
+  
+- 🏢 Previous **Applications Engineer Intern** at **Continental**, developing RPA solutions with **UiPath** and building internal applications with **C#** and **.NET** following the MVC pattern.
 - ☁️ Passionate about **cloud computing**, process automation, and delivering technical solutions aligned with business goals.
 
 ---
