@@ -7,6 +7,13 @@
 
 ## 🚀 About Me
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/OAGallo/OAGallo/main/bosch.svg" alt="Bosch" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Escudo_UdeG.svg" alt="Universidad de Guadalajara" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Continental_AG_logo.svg" alt="Continental" height="50"/>
+</p>
 
 ## 🏢 Companies & Teams
 
