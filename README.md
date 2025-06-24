@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/OAGallo/OAGallo/main/bosch.svg" alt="Bosch" height="50"/>
+  <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Bosch.jpeg" alt="Bosch" height="50"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Escudo_UdeG.svg" alt="Universidad de Guadalajara" height="50"/>
   &nbsp;&nbsp;
