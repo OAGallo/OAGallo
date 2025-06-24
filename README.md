@@ -10,9 +10,9 @@
 <p align="left">
   <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Bosch.jpeg" alt="Bosch" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Escudo_UdeG.svg" alt="Universidad de Guadalajara" height="50"/>
+  <img src="https://github.com/OAGallo/OAGallo/blob/main/UDGSPACE_LOGO.png" alt="Universidad de Guadalajara" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Continental_AG_logo.svg" alt="Continental" height="50"/>
+  <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Continental.jpeg" alt="Continental" height="50"/>
 </p>
 
 ## 🏢 Companies & Teams
