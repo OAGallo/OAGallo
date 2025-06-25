@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Continental.jpeg" alt="Continental" height="50" style="display: block;"/>
+      <img src="https://github.com/OAGallo/OAGallo/blob/main/Logo_Continental.jpeg" alt="Continental" height="70" style="display: block;"/>
     </td>
     <td style="vertical-align: middle;">
       Previous <strong>Applications Engineer Intern</strong> at <strong>Continental</strong>, developing RPA solutions with <strong>UiPath</strong> and building internal applications with <strong>C#</strong> and <strong>.NET</strong> following the MVC pattern.
